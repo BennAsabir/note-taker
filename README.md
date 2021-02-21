@@ -10,8 +10,8 @@ An application that can be used to write and save notes.
 * [Questions](#questions)
 
 ## General Info
-An application that can be used to write and save notes. This application will use an Express.js back-end and will save and retrieve note data from a JSON file.
-
+An application that can be used to write and save notes. This application will use an Express.js back-end and will save and retrieve note data from a JSON file. [Link to deployed application](https://fast-hamlet-04025.herokuapp.com/)
+<br>
 Image showcasing the application 
 <img src=./public/assets/images/screenshot.png>
 
