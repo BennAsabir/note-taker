@@ -13,7 +13,7 @@ An application that can be used to write and save notes.
 An application that can be used to write and save notes. This application will use an Express.js back-end and will save and retrieve note data from a JSON file.
 
 Image showcasing the application 
-<img src=.public/assets/images/screenshot.png>
+<img src=./public/assets/images/screenshot.png>
 
 
 ## Technologies
